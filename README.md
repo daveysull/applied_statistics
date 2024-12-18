@@ -30,7 +30,7 @@ Objective:
 Analyse the probability of guessing outcomes in a modified Lady Tasting Tea experiment.
 
 Libraries:
-TBC
+math
 
 Task 2: NumPy's Normal Distribution
 
@@ -46,7 +46,7 @@ Objective:
 Compare resting heart rates before and after a two-week exercise program.
 
 Libraries:
-- pandas
+- matplotlib
 - numpy 
 - scipy.stats
 
